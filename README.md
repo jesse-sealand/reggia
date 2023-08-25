@@ -1,4 +1,4 @@
-# simplistic
+# reggia
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/jesse-sealand/reggia)
 
 | | |
