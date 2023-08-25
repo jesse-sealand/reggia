@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: 'jesse-sealand/reggia: reggia'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Jesse C. Sealand"
+abstract: "A pythonic-style library that makes regular expressions (regex) simple."
+license: MIT
+license-url: "https://github.com/jesse-sealand/reggia/blob/main/LICENSE"
+repository-code: "https://github.com/jesse-sealand/reggia"
+keywords:
+  - python
+  - cli
+type: software
+url: "https://github.com/jesse-sealand/reggia"
