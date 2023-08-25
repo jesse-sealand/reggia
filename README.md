@@ -21,7 +21,7 @@ A base class for creating command line interface (cli) wrappers.
 - [Documentation](#documentation)
 
 ## Main Features
-Here are just a few of the things that py-rex does well:
+Here are just a few of the things that reggia does well:
 
   - Provides an intuitive interface to the power of regex.
   - Able to generate identical regex expressions from user logic.
