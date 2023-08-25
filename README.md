@@ -6,7 +6,6 @@
 | Package | [![PyPI Latest Release](https://img.shields.io/pypi/v/reggia.svg)](https://pypi.org/project/reggia/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/reggia)](https://pypi.org/project/reggia/) |
 | Meta | [![PyPI - License](https://img.shields.io/pypi/l/reggia)](https://github.com/jesse-sealand/reggia/blob/main/LICENSE)|
 
-A base class for creating command line interface (cli) wrappers.
 
 ## What is it?
 
